@@ -22,7 +22,7 @@ pod 'JailbreakChecker'
 
 ## Author
 
-Mafken, jens.leirens@gmail.com
+Mafken
 
 ## License
 
