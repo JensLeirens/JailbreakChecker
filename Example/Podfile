@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JailbreakChecker_Tests' do
+  pod 'JailbreakChecker', :path => '../'
+  
+  
+end
