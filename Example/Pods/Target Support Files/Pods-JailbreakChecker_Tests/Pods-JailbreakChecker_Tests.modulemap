@@ -1,0 +1,6 @@
+framework module Pods_JailbreakChecker_Tests {
+  umbrella header "Pods-JailbreakChecker_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

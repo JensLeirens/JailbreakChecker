@@ -1,0 +1,16 @@
+PODS:
+  - JailbreakChecker (0.1.0)
+
+DEPENDENCIES:
+  - JailbreakChecker (from `../`)
+
+EXTERNAL SOURCES:
+  JailbreakChecker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JailbreakChecker: 8365a99b11f2ec1c57aa31297b3afe823790cc0e
+
+PODFILE CHECKSUM: 44031c49fd44b631c70a677fef27c2ff665b6151
+
+COCOAPODS: 1.3.1
