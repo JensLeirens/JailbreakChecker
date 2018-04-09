@@ -1,7 +1,7 @@
 import Foundation
 import UIKit
 
-class JailbreakChecker {
+public class JailbreakChecker {
     
     public static func jailbreakCheck() -> [String : Bool] {
         var reasons : [String : Bool] = [:]

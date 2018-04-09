@@ -1,6 +1,5 @@
 # JailbreakChecker
 
-[![CI Status](http://img.shields.io/travis/Mafken/JailbreakChecker.svg?style=flat)](https://travis-ci.org/Mafken/JailbreakChecker)
 [![Version](https://img.shields.io/cocoapods/v/JailbreakChecker.svg?style=flat)](http://cocoapods.org/pods/JailbreakChecker)
 [![License](https://img.shields.io/cocoapods/l/JailbreakChecker.svg?style=flat)](http://cocoapods.org/pods/JailbreakChecker)
 [![Platform](https://img.shields.io/cocoapods/p/JailbreakChecker.svg?style=flat)](http://cocoapods.org/pods/JailbreakChecker)
