@@ -22,8 +22,6 @@ if result.count > 0 {
 }
 ```
 
-## Requirements
-
 ## Installation
 
 JailbreakChecker is available through [CocoaPods](http://cocoapods.org). To install
