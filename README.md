@@ -8,6 +8,20 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+``` 
+var outputString = ""
+let result = JailbreakChecker.jailbreakCheck()
+        
+if result.count > 0 {
+  outputString.append(" The Device has been Jailbroken! \n\n")
+            
+  // display the results
+  for item in result {
+    outputString.append(item.key + " = " + item.value.description + "\n")
+  }
+}
+```
+
 ## Requirements
 
 ## Installation
